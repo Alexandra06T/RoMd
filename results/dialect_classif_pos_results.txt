@@ -1,0 +1,15 @@
+Train data: 26851
+Test data: 6713
+
+Accuracy: 0.5405928794875614
+
+Classification Report
+======================================================
+              precision    recall  f1-score   support
+
+           0       0.00      0.00      0.00      3084
+           1       0.54      1.00      0.70      3629
+
+    accuracy                           0.54      6713
+   macro avg       0.27      0.50      0.35      6713
+weighted avg       0.29      0.54      0.38      6713

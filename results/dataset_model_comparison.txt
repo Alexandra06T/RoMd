@@ -1,0 +1,5 @@
+DIALECT IDENTIFICATION
+Logistic Regression | Nitro Dataset: 0.7619047619047619
+Logistic Regression | Morocco Dataset: 0.8636056718433491
+CNN | Nitro Dataset: 0.5497835
+CNN | Morocco Dataset: 0.88048613
